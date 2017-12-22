@@ -1,0 +1,34 @@
+h1 {
+	text-align: center;
+	font-family: Arial;
+}
+
+.presentation {
+	text-align: center;
+	font-style: italic;
+}
+
+img {
+	height: 150px;
+}
+
+
+a {
+	display: inline-block;
+	color: black;
+	text-decoration: none;
+	font-family: Arial;
+}
+
+.voir {
+	color: blue;
+	text-decoration: underline;
+}
+
+.voir:hover {
+	font-style: italic;
+}
+
+.voir:visited {
+	color: purple;
+}
